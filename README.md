@@ -23,8 +23,8 @@ A high-performance, intelligent image converter that automatically optimizes and
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smart-webp-converter.git
-cd smart-webp-converter
+git clone https://github.com/ehsankolivand/optimize_images.py.git
+
 ```
 
 2. Install dependencies:
@@ -37,7 +37,7 @@ pip install Pillow
 Simply run the script in the directory containing your images:
 
 ```bash
-python webp_converter.py
+python optimize_images.py
 ```
 
 The script will:
