@@ -106,6 +106,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Ehsan Kolivand
 
 *Note: Please star ⭐ the repository if you find it useful!*
